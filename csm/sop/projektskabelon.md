@@ -1,6 +1,6 @@
-# 📜 Project template
+# 📜 Project template for onboarding
 
-## 📧Welcome mail
+### 📧Welcome mail
 
 Use the mail template below, to send the initial mail to the customer:
 
@@ -16,7 +16,7 @@ Desuden er der generelt en hel masse udveksling af data og informationer her i o
 
 Så velkommen til Salecto, jeg ser frem til at tale med dig :\)
 
-## 📞 Onboarding call
+### 📞 Onboarding call
 
 1. Present yourself and what your role in the project is going to be
 2. Explain the process for the whole project
@@ -31,7 +31,7 @@ Så velkommen til Salecto, jeg ser frem til at tale med dig :\)
 5. Schedule a time for when the walk-through of the backend system will take place
 6. Ask the customer when they will be ready to have a talk with our Graphic Designer
 
-## ℹ Information mail
+### ℹ Information mail
 
 Hej **xxxxx**,
 
@@ -136,41 +136,7 @@ Udfyld venligst nedenstående tabel med jeres data om hvilken fragt-opsætning d
 | GLS | Til Erhverv | 0-5 Kg. | 39 Kr. inkl. moms |
 | GLS | Til Erhverv | 5-10 Kg. | 49 Kr. inkl. moms |
 
-## 🍥Design Approval Process
+### Design Approval Process
 
-Describing the basic procedures that needs to be done for a webshop design to be approved.
 
-![](.gitbook/assets/design-approval-proces.png)
-
-### Design Start
-
-Onboarder creates a Wrike tasks using the request [\#171 Salecto Designs](https://www.wrike.com/workspace.htm?acc=506669#/forms?formid=329746).
-
-The graphic designer has the initial conversation with the customer, starts creating the necessary design files, uploads them to InVision and informs the CTO and Head of Production that an internal acceptance review can start.
-
-### Acceptance Review
-
-#### Internal
-
-The CTO and Head of Production will go over the design files in InVision and verify that every single design element can be implemented with our current technology stack.
-
-They may also inform the Graphic Designer about other possible design elements, that is easier to produce and maintain.
-
-The CTO and Head of Production will inform the Graphic Designer whether or not the design has been accepted.
-
-#### External
-
-The Graphic Designer will now send the links to the design files in InVision to the customer.
-
-There can be multiple iterations at this point in time. If there are important changes in these iterations, it is up to the Graphic Designer to get acceptance again from the CTO and the Head of Production.
-
-If the customer accepts all design files the Graphic Designer will inform the Onboarder.
-
-### Implementation Meeting
-
-The Onboarder will create an invite to a meeting with the primary Front-end Developer along with the InVision-links to the design files.
-
-This meeting is the Onboarders chance to proactively inform about details not included in the design files, and it is the Front-end Developers chance to ask question about how specific elements should be implemented.
-
-The goal is to prevent re-work from happening, have a stable result and for the customer to be able to maintain it themselves.
 
