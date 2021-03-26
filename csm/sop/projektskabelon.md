@@ -67,11 +67,11 @@ Vi vil rigtigt gerne kunne følge med i shoppens performance. Til det vil vi meg
 
 Du kan finde en guide til hvordan man gør det her: [https://support.google.com/analytics/answer/1009702\#Add](https://support.google.com/analytics/answer/1009702#Add)
 
-**E-conomic**
+**e-conomic**
 
-Det skal vi bruge for at kunne lave integrationen så al bogføring kan ske \(semi\)automatisk. Bemærk venligst at vi er nød til at have administrator-adgang for at kunne oprette forbindelsen til shoppen. Det kan enten være du opretter en ny administrator, som du kan slette igen efter vores arbejde er færdigt, men du kan også bare give mig oplysninger på din nuværende administrator-bruger.
+Dette skal vi bruge for at kunne lave integrationen så al bogføring kan ske \(semi\)automatisk. Bemærk venligst at vi er nødt til at have administrator-adgang for at kunne oprette forbindelsen til shoppen. Det kan enten være ved at du opretter en ny administrator, som du kan slette igen efter at vores arbejde er færdigt, men du kan også bare give mig oplysninger på din nuværende administrator-bruger.
 
-Vi gør brug af følgende modul: [https://www.tric.dk/guides/magento-economic/](https://www.tric.dk/guides/magento-economic/) Her kan i læse nærmere hvilke indstillingsmuligheder der er.
+Vi gør brug af følgende modul: [https://www.tric.dk/guides/magento-economic/](https://www.tric.dk/guides/magento-economic/). Her kan I læse nærmere hvilke indstillingsmuligheder der er.
 
 Aftalenummer:
 
