@@ -11,7 +11,8 @@
    5. Shop configuration, module installation and other integrations.
    6. Go for launch.
 3. If the sales person has specified anything out of the ordinary have a discussion with the customer about this.
-4. If we are responsible for making a Data Migration, ask them if we should start this immediately or at a planned point in time.
-5. Schedule a time for a System Walkthrough \(backend crash course\).
-6. Ask the customer when they will be ready to have a talk with our Graphic Designer.
+4. Ask if the customer has any doubts or concerns regarding the contract \(have this on hand\).
+5. If we are responsible for making a Data Migration, ask the customer if we should start this immediately or at a planned point in time.
+6. Schedule a time for a System Walkthrough \(backend crash course\).
+7. Ask the customer when they will be ready to have a talk with our Graphic Designer.
 
