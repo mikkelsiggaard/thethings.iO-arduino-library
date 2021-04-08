@@ -10,6 +10,14 @@ Tak for snakken tidligere – jeg glæder mig til at komme i gang med den nye sh
 
 Vil du sende nedenstående retur til mig?
 
+**Firmaoplysninger**
+
+Firmanavn og adresse:
+
+E-mailadresse til shop:
+
+CVR:
+
 **Nuværende shopsystem**
 
 Backend-link:
