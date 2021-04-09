@@ -24,7 +24,7 @@
       * [Initiate Design](csm/sop/projektskabelon/design-and-review/initiate-design.md)
       * [Design Approved](csm/sop/projektskabelon/design-and-review/design-approved.md)
     * [Build](csm/sop/projektskabelon/build/README.md)
-      * [Untitled](csm/sop/projektskabelon/build/untitled.md)
+      * [Shop Configuration](csm/sop/projektskabelon/build/untitled.md)
   * [🆘 Emergencies](csm/sop/emergencies.md)
 
 ## PD
