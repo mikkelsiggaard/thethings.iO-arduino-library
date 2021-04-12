@@ -4,7 +4,7 @@ description: 'Use the template below, to send the initial email to the customer.
 
 # Information Email
 
-Hej XXX,
+Hej XXX.
 
 Tak for snakken tidligere – jeg glæder mig til at komme i gang med den nye shop :\)
 
@@ -74,8 +74,6 @@ Adgangskode:
 
 **Facebook Pixel**
 
-Der er også bestilt at der skal indsættes en Facebook Pixel.
-
 Det er bedst at undgå at oprette en Facebook Pixel på ens egen personlige annonce-konto/private profil.
 
 I stedet skal man oprette en Business Manager-konto, hvilket du kan gøre her: [business.facebook.com/create](https://business.facebook.com/create)
@@ -86,13 +84,11 @@ Facebook Pixel ID:
 
 **MailChimp**
 
-Vi skal også have lavet en integration til Mailchimp.
+Opsætning af Mailchimp-specifikke segmenter, kampagner mm. er ikke den del af Salectos support. Vi skaber forbindelsen fra shop til MailChimp.
 
-Hvad der er opsat i Mailchimp af segmenteringer, kampagner med videre er ikke noget Salecto supportere i. Vi skaber ”blot” connection fra shop til Mailchimp.
+Da MailChimp har fået lavet 2-faktor-godkendelse, vil vi meget gerne oprettes som bruger med administratorrettigheder.
 
-Da Mailchimp har fået lavet 2-faktor-godkendelse, så vil vi meget gerne oprettes som bruger med administratorrettigheder.
-
-Det er der en guide til her: [https://mailchimp.com/help/manage-user-levels-in-your-account/](https://mailchimp.com/help/manage-user-levels-in-your-account/)
+Guide til dette: [https://mailchimp.com/help/manage-user-levels-in-your-account/](https://mailchimp.com/help/manage-user-levels-in-your-account/)
 
 Vi vil gerne inviteres på email-adressen: [support@salecto.com](mailto:support@salecto.com) \(alternativt med brugernavnet ”salectoaps”\).
 
