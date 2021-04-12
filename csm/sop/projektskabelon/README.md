@@ -1,4 +1,4 @@
-# 📜 Project template for onboarding
+# Project template for onboarding
 
 ### 📧Welcome mail
 

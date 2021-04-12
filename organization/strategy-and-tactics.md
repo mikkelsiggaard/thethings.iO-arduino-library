@@ -1,4 +1,4 @@
-# 💼 Strategy & Tactics
+# Strategy & Tactics
 
 ## Vision & Mission
 

@@ -2,7 +2,7 @@
 description: Describing our procedures for different kind og emergencies.
 ---
 
-# 🆘 Emergencies
+# Emergencies
 
 ### Single site
 

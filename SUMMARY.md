@@ -4,8 +4,8 @@
 
 ## Organization
 
-* [💼 Strategy & Tactics](organization/strategy-and-tactics.md)
-* [🎯 Goals & Measures](organization/goals-and-measures.md)
+* [Strategy & Tactics](organization/strategy-and-tactics.md)
+* [Goals & Measures](organization/goals-and-measures.md)
 
 ---
 
@@ -14,7 +14,7 @@
 ## CSM
 
 * [⚙ SOP](csm/sop/README.md)
-  * [📜 Project template for onboarding](csm/sop/projektskabelon/README.md)
+  * [Project template for onboarding](csm/sop/projektskabelon/README.md)
     * [Onboarding](csm/sop/projektskabelon/onboarding-process/README.md)
       * [Onboarding Call](csm/sop/projektskabelon/onboarding-process/onboarding-call.md)
       * [Welcome Email](csm/sop/projektskabelon/onboarding-process/welcome-email.md)
@@ -25,7 +25,7 @@
       * [Design Approved](csm/sop/projektskabelon/design-and-review/design-approved.md)
     * [Build](csm/sop/projektskabelon/build/README.md)
       * [Shop Configuration](csm/sop/projektskabelon/build/untitled.md)
-  * [🆘 Emergencies](csm/sop/emergencies.md)
+  * [Emergencies](csm/sop/emergencies.md)
 
 ## PD
 

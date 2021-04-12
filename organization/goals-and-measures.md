@@ -4,7 +4,7 @@ description: >-
   set forth.
 ---
 
-# 🎯 Goals & Measures
+# Goals & Measures
 
 ### The concrete goals
 
