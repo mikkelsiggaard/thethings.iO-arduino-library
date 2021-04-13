@@ -92,6 +92,10 @@ Guide til dette: [https://mailchimp.com/help/manage-user-levels-in-your-account/
 
 Vi vil gerne inviteres på email-adressen: [support@salecto.com](mailto:support@salecto.com) \(alternativt med brugernavnet ”salectoaps”\).
 
+**Fragtrater**
+
+Udfyld venligst jeres ønskede fragtrater i samme format som vedhæftet tabel.
+
 **Shipmondo \(Tidl. Pakkelabels\)**
 
 Jeg vil rigtigt gerne lave en fragtopsætning til dig via den service der hedder Shipmondo. Det er et system vi generelt har rigtigt gode erfaringer med og hvor det er nemt at skifte eller tilføje nye fragtleverandører.
@@ -100,6 +104,4 @@ Det kræver dog at man har en konto ved Shipmondo. Man kan oprette en ny konto h
 
 Brugernavn:  
 Adgangskode:
-
-Udfyld venligst nedenstående tabel med jeres data om hvilken fragt-opsætning der konkret skal laves.
 

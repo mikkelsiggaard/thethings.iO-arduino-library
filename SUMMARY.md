@@ -19,6 +19,7 @@
       * [Onboarding Call](csm/sop/projektskabelon/onboarding-process/onboarding-call.md)
       * [Welcome Email](csm/sop/projektskabelon/onboarding-process/welcome-email.md)
       * [Information Email](csm/sop/projektskabelon/onboarding-process/information-email.md)
+      * [Terms and Conditions Email](csm/sop/projektskabelon/onboarding-process/terms-and-conditions-email.md)
       * [System Walkthrough](csm/sop/projektskabelon/onboarding-process/system-walkthrough.md)
     * [Design and Review](csm/sop/projektskabelon/design-and-review/README.md)
       * [Initiate Design](csm/sop/projektskabelon/design-and-review/initiate-design.md)
