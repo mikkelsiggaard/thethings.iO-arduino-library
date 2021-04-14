@@ -14,7 +14,6 @@
 ## CSM
 
 * [⚙ SOP](csm/sop/README.md)
-  * [iPOS](csm/sop/ipos.md)
   * [Project template for onboarding](csm/sop/projektskabelon/README.md)
     * [Onboarding](csm/sop/projektskabelon/onboarding-process/README.md)
       * [Onboarding Call](csm/sop/projektskabelon/onboarding-process/onboarding-call.md)
@@ -27,6 +26,7 @@
       * [Design Approved](csm/sop/projektskabelon/design-and-review/design-approved.md)
     * [Build](csm/sop/projektskabelon/build/README.md)
       * [Shop Configuration](csm/sop/projektskabelon/build/untitled.md)
+  * [iPOS](csm/sop/ipos.md)
   * [Emergencies](csm/sop/emergencies.md)
 
 ## PD
