@@ -14,6 +14,7 @@
 ## CSM
 
 * [⚙ SOP](csm/sop/README.md)
+  * [iPOS](csm/sop/ipos.md)
   * [Project template for onboarding](csm/sop/projektskabelon/README.md)
     * [Onboarding](csm/sop/projektskabelon/onboarding-process/README.md)
       * [Onboarding Call](csm/sop/projektskabelon/onboarding-process/onboarding-call.md)
