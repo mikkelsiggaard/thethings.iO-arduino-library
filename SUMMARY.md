@@ -26,6 +26,7 @@
       * [Design Approved](csm/sop/projektskabelon/design-and-review/design-approved.md)
     * [Build and Review](csm/sop/projektskabelon/build/README.md)
       * [Shop Configuration](csm/sop/projektskabelon/build/untitled.md)
+      * [Design review](csm/sop/projektskabelon/build/design-review.md)
   * [iPOS](csm/sop/ipos.md)
   * [Emergencies](csm/sop/emergencies.md)
 

@@ -2,29 +2,33 @@
 
 
 
-Set up basic store configuration:
+**Set up basic store configuration:**
 
 * Create order status 'Betalt' and assign as 'processing'
 * Stores -&gt; Settings -&gt; Configuration -&gt; XML Sitemap -&gt; Search Engine Submission -&gt; Yes
 * Content -&gt; Design -&gt; Configuration -&gt; Search Engine Robots -&gt; Reset to default -&gt; Check \[url\]/robots.txt for content
+* Configure modules
+* Set up API's
+* Configure menu
+* Check category structure
 
-
+**Set the following for Danish shops:**
 
 | Stores | Configuration | General | General | Country options | Default country: Denmark |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Stores | Configuration | General | General | Country options | Allow countries |
-| Stores | Configuration | General | General | Locale options | Indstil indstillinger for Danmark |
-| Stores | Configuration | General | General | Store information | Indstil kundens forretningsoplysninger |
-| Stores | Configuration | General | Currency setup | Currency options | Indstil til alle 3 punkter til domæne valuta \(typisk Danish Krone\) |
-| Stores | Configuration | General | Store Email Addresses |  | Indstil alle punkter med kundens firmanavn og e-mail adresse |
-| Stores | Configuration | General | Contacts | Email options | Send emails to: “kundens e-mail” |
-| Stores | Configuration | Catalog | Catalog | Storefront | List mode sættes til “Grid only” |
-| Stores | Configuration | Catalog | Catalog | Product Reviews | Product Reviews enabled instilled til “No” medmindre kunden ønsker |
-| Stores | Configuration | Catalog | Catalog | Product Image Placeholders | Product image placeholders: Upload kundelogo til alt |
-| Stores | Configuration | Catalog | Catalog | Search Engine Optimization | Product URL suffix og Category URL suffix skal fjernes |
-| Stores | Configuration | Catalog | XML Sitemap | Generation Settings | Enabled instilled til “Yes” |
-| Stores | Configuration | Customers | Wish list | General Options | Enabled instilles til “No” medmindre kunden specifikt ønsker det |
-| Stores | Configuration | Customers | Persistent Shopping Cart | General Options | Enable Persistence aktiveres og seconds sættes til 7884000 |
+| Stores | Configuration | General | General | Locale options | Denmark |
+| Stores | Configuration | General | General | Store information | Set customer business information |
+| Stores | Configuration | General | Currency setup | Currency options | Set all 3 to Danish currency, DKK |
+| Stores | Configuration | General | Store Email Addresses |  | Set to customer business name and email address |
+| Stores | Configuration | General | Contacts | Email options | Send emails to customer email address |
+| Stores | Configuration | Catalog | Catalog | Storefront | Set list mode to 'Grid only' |
+| Stores | Configuration | Catalog | Catalog | Product Reviews | Product Reviews disable unless otherwise specified |
+| Stores | Configuration | Catalog | Catalog | Product Image Placeholders | Product image placeholders: Upload customer logo to all |
+| Stores | Configuration | Catalog | Catalog | Search Engine Optimization | Product URL suffix and Category: remove URL suffix |
+| Stores | Configuration | Catalog | XML Sitemap | Generation Settings | Set 'Enabled instilled' to 'Yes' |
+| Stores | Configuration | Customers | Wish list | General Options | Disable unless otherwise specified |
+| Stores | Configuration | Customers | Persistent Shopping Cart | General Options | Activate 'Enable Persistence' snd set seconds to: 7884000 |
 | Stores | Configuration | Sales | Sales | Invoice and Packing Slip Design | Upload kundelogo \(lille størrelse\) til begge muligheder og udfyld Address |
 | Stores | Configuration | Sales | Sales emails | Order | Udfyld kundens e-mail adresse i send email copy to |
 | Stores | Configuration | Sales | Tax |  | SNAK MED ANDERS |

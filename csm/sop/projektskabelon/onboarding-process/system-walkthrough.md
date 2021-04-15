@@ -1,5 +1,5 @@
 ---
-description: A walk-through of the system with customer
+description: A walk-through of S2 backend with the customer.
 ---
 
 # System Walkthrough

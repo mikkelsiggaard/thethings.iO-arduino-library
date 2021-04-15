@@ -1,5 +1,5 @@
 ---
-description: Please see subpages
+description: See subpages.
 ---
 
 # Onboarding Process
