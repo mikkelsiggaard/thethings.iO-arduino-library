@@ -1,6 +1,6 @@
 ---
 description: >-
-  Follow this process for each store view, that has had data migrated by
+  Follow this process for each store view, for which data has been migrated by
   Salecto.
 ---
 
@@ -41,7 +41,7 @@ You can copy the URLs from these sitemaps and compile them into one CSV file whi
 
 https://www.goldenplanet.dk/support/sogemaskineoptimering/google-sitemap/ 
 
-**For Golden Planet shops, their XML Sitemap is here:** https: //domæne.dk/sitemap-index.xml
+**For Golden Planet shops, their XML Sitemap is here:** https: //domæne.dk/sitemap-index.xml 
 
 Although not all URLs are in one XML file, GetRedirects can easily figure out the underlying XML files itself.
 
