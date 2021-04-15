@@ -10,11 +10,13 @@
 * Set up API's
 * Configure menu
 * Check category structure
+* Check attribute sets and attributes
 
 **Set the following for Danish shops:**
 
-| Stores | Configuration | General | General | Country options | Default country: Denmark |
+|  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Store | Configuration | General | General | Country options | Default country: Denmark |
 | Stores | Configuration | General | General | Country options | Allow countries |
 | Stores | Configuration | General | General | Locale options | Denmark |
 | Stores | Configuration | General | General | Store information | Set customer business information |
@@ -37,8 +39,9 @@
 | Stores | Configuration | Sales | Google API | Google Adwords | Configure if specified by Conversio or customer |
 | Stores | Configuration | Sales | Payment Methods | Merchant Location | Set Merchant Country to Denmark |
 | Stores | Configuration | Sales | Payment Methods | Other Payment Methods | Activate and set in accordance with customer needs |
+| Content | Configuration | Edit | HTML Head | Favicon Icon | Upload favicon |
 
-| Content | Configuration | Edit | HTML Head | Favicon Icon | Upload Favicon |
+|  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Content | Configuration | Edit | HTML Head | Default Page Title | Set fallback title  |
 | Content | Configuration | Edit | HTML Head | Page Title Suffix | Set \[domain.com\] |
