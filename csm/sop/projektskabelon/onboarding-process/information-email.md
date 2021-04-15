@@ -94,7 +94,17 @@ Vi vil gerne inviteres på email-adressen: [support@salecto.com](mailto:support@
 
 **Fragtrater**
 
-Udfyld venligst jeres ønskede fragtrater i samme format som vedhæftet tabel.
+Udfyld venligst jeres ønskede fragtrater i samme format som denne tabel: 
+
+
+
+| **Leverandør** | **Service** | **Vægtinterval** | **Pris for kunden** |
+| :--- | :--- | :--- | :--- |
+| PostNord | Med omdeling | 0-5 Kg. | 49 Kr. inkl. moms |
+| PostNord | Med omdeling | 5-10 Kg. | 69 Kr. inkl. moms |
+| GLS | Til Pakkeshop | 0-10 Kg. | 45 Kr. inkl. moms |
+| GLS | Til Erhverv | 0-5 Kg. | 39 Kr. inkl. moms |
+| GLS | Til Erhverv | 5-10 Kg. | 49 Kr. inkl. moms |
 
 **Shipmondo \(Tidl. Pakkelabels\)**
 
