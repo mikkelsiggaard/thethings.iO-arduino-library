@@ -24,11 +24,11 @@
     * [Design Process](csm/sop/projektskabelon/design-and-review/README.md)
       * [Initiate Design](csm/sop/projektskabelon/design-and-review/initiate-design.md)
       * [Design Approved](csm/sop/projektskabelon/design-and-review/design-approved.md)
-    * [Build and Review](csm/sop/projektskabelon/build/README.md)
+      * [Design review](csm/sop/projektskabelon/design-and-review/design-review.md)
+    * [Build](csm/sop/projektskabelon/build/README.md)
       * [Data migration](csm/sop/projektskabelon/build/data-migration.md)
       * [Redirects](csm/sop/projektskabelon/build/redirects.md)
       * [Shop Configuration](csm/sop/projektskabelon/build/untitled.md)
-      * [Design review](csm/sop/projektskabelon/build/design-review.md)
   * [iPOS](csm/sop/ipos.md)
   * [Emergencies](csm/sop/emergencies.md)
 
