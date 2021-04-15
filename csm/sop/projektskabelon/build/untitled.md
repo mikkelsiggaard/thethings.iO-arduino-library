@@ -4,15 +4,19 @@
 
 **Set up basic store configuration:**
 
-* Stores -&gt; Settings -&gt; Configuration -&gt; XML Sitemap -&gt; Search Engine Submission -&gt; Yes
-* Content -&gt; Design -&gt; Configuration -&gt; Search Engine Robots -&gt; Reset to default -&gt; Check \[url\]/robots.txt for content
+* Set up store views: [https://docs.magento.com/user-guide/stores/stores-all-create-view.html](https://docs.magento.com/user-guide/stores/stores-all-create-view.html)
+* Generate sitemap for each store view: [https://docs.magento.com/user-guide/marketing/sitemap-xml-configure.html](https://docs.magento.com/user-guide/marketing/sitemap-xml-configure.html)
+* Go to Stores -&gt; Settings -&gt; Configuration -&gt; XML Sitemap -&gt; Search Engine Submission -&gt; Yes
+* Go to Content -&gt; Design -&gt; Configuration -&gt; Search Engine Robots -&gt; Reset to default
+* Check \[domain.com\]/robots.txt for content
 * Configure modules
 * Set up API's
 * Configure menu
 * Check category structure
 * Check attribute sets and attributes
+* Set up shipping rates
 
-**Set the following for Danish shops:**
+**Set the following for each store view \(Danish example\):**
 
 |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
