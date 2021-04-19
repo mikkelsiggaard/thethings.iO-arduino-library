@@ -61,4 +61,5 @@
 ## Tools and tips
 
 * [Browser Extensions](tools-and-tips/browser-extensions.md)
+* [Desktop Software](tools-and-tips/desktop-software.md)
 

@@ -35,7 +35,28 @@ This tool will show the path the user took and the individual pages HTTP codes.
 [https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll)
 
 **Auto Scroll**  
-Useful tool for 
+A tool that makes it possible to scroll smoothly using the scroll wheel button.   
+[https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan](https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan)
+
+**Structured Data Testing Tool**  
+A tool for checking the available structured/rich data from microdata, Schema.org, RFDa and JSON-LD.   
+[https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
+
+**Favicon Detector**  
+Easily download favicons from websites.   
+[https://chrome.google.com/webstore/detail/favicon-detector/jlfeffjhgmgblofcgpbgpkkhfniipejm](https://chrome.google.com/webstore/detail/favicon-detector/jlfeffjhgmgblofcgpbgpkkhfniipejm)
+
+**Image Size Info**  
+Useful for seeing image size info, both for displayed size and original size.   
+[https://chrome.google.com/webstore/detail/image-size-info/oihdhfbfoagfkpcncinlbhfdgpegcigf](https://chrome.google.com/webstore/detail/image-size-info/oihdhfbfoagfkpcncinlbhfdgpegcigf)
+
+**XML Tree**  
+A tool that formats XML-files better when seeing them from a browser.   
+[https://chrome.google.com/webstore/detail/xml-tree/gbammbheopgpmaagmckhpjbfgdfkpadb](https://chrome.google.com/webstore/detail/xml-tree/gbammbheopgpmaagmckhpjbfgdfkpadb)
+
+**GoFullPage**  
+Take a screenshot of an entire webpage.   
+[https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
 
 
 
