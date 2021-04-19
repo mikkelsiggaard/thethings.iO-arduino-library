@@ -1,3 +1,7 @@
+---
+description: 'https://aheadworks.com/blog-extension-for-magento-2'
+---
+
 # Blog
 
 Link to homepage: [https://salecto.dk/udvidelser/blog/](https://salecto.dk/udvidelser/blog/)
