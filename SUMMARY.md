@@ -38,6 +38,9 @@
   * [Aheadworks](pd/modules/untitled.md)
   * [Bambora](pd/modules/bambora.md)
   * [BSS Commerce](pd/modules/bss-commerce.md)
+  * [Clerk.io](pd/modules/clerk.io.md)
+  * [Droppin Studio](pd/modules/droppin-studio.md)
+  * [E-mærket](pd/modules/e-maerket.md)
   * [Fooman](pd/modules/fooman.md)
 
 ## Sales
