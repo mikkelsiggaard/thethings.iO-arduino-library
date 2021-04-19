@@ -38,6 +38,7 @@
   * [Aheadworks](pd/modules/untitled.md)
   * [Bambora](pd/modules/bambora.md)
   * [Fooman](pd/modules/fooman.md)
+  * [BSS Commerce](pd/modules/bss-commerce.md)
 
 ## Sales
 
