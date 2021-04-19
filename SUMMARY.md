@@ -35,7 +35,8 @@
 ## PD
 
 * [Modules](pd/modules/README.md)
-  * [Untitled](pd/modules/untitled.md)
+  * [Aheadworks](pd/modules/untitled.md)
+  * [Fooman](pd/modules/fooman.md)
 
 ## Sales
 
