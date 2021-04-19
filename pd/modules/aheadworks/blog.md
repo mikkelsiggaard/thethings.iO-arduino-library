@@ -1,3 +1,7 @@
+---
+description: Allow Salecto customers to create blog-posts
+---
+
 # Blog
 
 Link to documentation: [https://aheadworks.com/blog-extension-for-magento-2](https://aheadworks.com/blog-extension-for-magento-2)
