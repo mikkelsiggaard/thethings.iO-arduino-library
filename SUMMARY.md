@@ -41,6 +41,8 @@
   * [Clerk.io](pd/modules/clerk.io.md)
   * [Droppin Studio](pd/modules/droppin-studio.md)
   * [E-mærket](pd/modules/e-maerket.md)
+  * [Ebizmart](pd/modules/ebizmart.md)
+  * [Firebear Studio](pd/modules/firebear-studio.md)
   * [Fooman](pd/modules/fooman.md)
 
 ## Sales
