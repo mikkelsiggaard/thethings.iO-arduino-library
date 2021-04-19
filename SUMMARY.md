@@ -44,6 +44,7 @@
   * [Ebizmart](pd/modules/ebizmart.md)
   * [Firebear Studio](pd/modules/firebear-studio.md)
   * [Fooman](pd/modules/fooman.md)
+  * [Mageplaza](pd/modules/mageplaza.md)
 
 ## Sales
 
