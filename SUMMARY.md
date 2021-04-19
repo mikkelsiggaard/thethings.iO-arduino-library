@@ -35,7 +35,8 @@
 ## PD
 
 * [Modules](pd/modules/README.md)
-  * [Aheadworks](pd/modules/untitled.md)
+  * [Aheadworks](pd/modules/untitled/README.md)
+    * [Blog](pd/modules/untitled/blog.md)
   * [Bambora](pd/modules/bambora.md)
   * [BSS Commerce](pd/modules/bss-commerce.md)
   * [Clerk.io](pd/modules/clerk.io.md)
