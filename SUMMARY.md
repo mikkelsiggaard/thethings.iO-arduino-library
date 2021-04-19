@@ -47,10 +47,6 @@
     * [Smart One Step Checkout](pd/modules/aheadworks/smart-one-step-checkout.md)
   * [Bambora](pd/modules/bambora.md)
   * [BSS Commerce](pd/modules/bss-commerce.md)
-  * [Clerk.io](pd/modules/clerk.io.md)
-  * [Droppin Studio](pd/modules/droppin-studio.md)
-  * [E-mærket](pd/modules/e-maerket.md)
-  * [Ebizmart](pd/modules/ebizmart.md)
   * [Firebear Studio](pd/modules/firebear-studio.md)
   * [Fooman](pd/modules/fooman.md)
   * [Mageplaza](pd/modules/mageplaza.md)
@@ -58,7 +54,6 @@
   * [Salecto](pd/modules/salecto/README.md)
     * [Salecto Admin Theme](pd/modules/salecto/salecto-admin-theme.md)
   * [TRIC](pd/modules/tric.md)
-  * [WebShopsApp](pd/modules/webshopsapp.md)
 
 ## Sales
 
