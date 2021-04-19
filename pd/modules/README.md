@@ -1,7 +1,5 @@
 ---
-description: >-
-  This page includes all of our modules that are available in the Connect2
-  webservice.
+description: This page includes all of our Salecto Supported-modules.
 ---
 
 # Modules
