@@ -58,3 +58,7 @@
 
 * [Untitled](sales/untitled.md)
 
+## Tools and tips
+
+* [Browser Extensions](tools-and-tips/browser-extensions.md)
+
