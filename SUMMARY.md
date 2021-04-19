@@ -49,7 +49,6 @@
   * [BSS Commerce](pd/modules/bss-commerce.md)
   * [Firebear Studio](pd/modules/firebear-studio.md)
   * [Fooman](pd/modules/fooman.md)
-  * [Mageplaza](pd/modules/mageplaza.md)
   * [Mirasvit](pd/modules/mirasvit.md)
   * [Salecto](pd/modules/salecto/README.md)
     * [Salecto Admin Theme](pd/modules/salecto/salecto-admin-theme.md)
