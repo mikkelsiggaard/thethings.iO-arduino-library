@@ -36,6 +36,9 @@
 
 * [Modules](pd/modules/README.md)
   * [Aheadworks](pd/modules/aheadworks/README.md)
+    * [Storelocator](pd/modules/aheadworks/storelocator.md)
+    * [Smart One Step Checkout](pd/modules/aheadworks/smart-one-step-checkout.md)
+    * [Shipping Restrictions](pd/modules/aheadworks/shipping-restrictions.md)
     * [Blog](pd/modules/aheadworks/blog.md)
     * [Customer Group Catalog Permissions](pd/modules/aheadworks/customer-group-catalog-permissions.md)
     * [Gift Card](pd/modules/aheadworks/gift-card.md)
