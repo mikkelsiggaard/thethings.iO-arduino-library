@@ -55,7 +55,8 @@
   * [Fooman](pd/modules/fooman.md)
   * [Mageplaza](pd/modules/mageplaza.md)
   * [Mirasvit](pd/modules/mirasvit.md)
-  * [Salecto](pd/modules/salecto.md)
+  * [Salecto](pd/modules/salecto/README.md)
+    * [Salecto Admin Theme](pd/modules/salecto/salecto-admin-theme.md)
   * [TRIC](pd/modules/tric.md)
   * [WebShopsApp](pd/modules/webshopsapp.md)
 
