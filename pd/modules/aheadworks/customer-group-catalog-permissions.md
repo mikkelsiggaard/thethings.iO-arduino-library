@@ -1,0 +1,2 @@
+# Customer Group Catalog Permissions
+

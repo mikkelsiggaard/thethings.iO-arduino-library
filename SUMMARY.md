@@ -37,6 +37,8 @@
 * [Modules](pd/modules/README.md)
   * [Aheadworks](pd/modules/aheadworks/README.md)
     * [Blog](pd/modules/aheadworks/blog.md)
+    * [Customer Group Catalog Permissions](pd/modules/aheadworks/customer-group-catalog-permissions.md)
+    * [Gift Card](pd/modules/aheadworks/gift-card.md)
   * [Bambora](pd/modules/bambora.md)
   * [BSS Commerce](pd/modules/bss-commerce.md)
   * [Clerk.io](pd/modules/clerk.io.md)
