@@ -50,10 +50,6 @@
     * [Salecto Admin Theme](pd/modules/salecto/salecto-admin-theme.md)
   * [TRIC](pd/modules/tric.md)
 
-## Sales
-
-* [Untitled](sales/untitled.md)
-
 ## Tools and tips
 
 * [Browser Extensions](tools-and-tips/browser-extensions.md)
