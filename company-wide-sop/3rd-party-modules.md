@@ -53,5 +53,5 @@ To be able to check if a 3rd party modules is Composer-compliant there is a coup
 
 According to our terms, we can, for whatever reason we seem fit, deny to install a module. 
 
-
+This was included so we can never be forced to install some 3rd partys work, that we know will cause problems. 
 
