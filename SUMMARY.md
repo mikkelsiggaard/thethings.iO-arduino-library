@@ -7,10 +7,6 @@
 * [Strategy & Tactics](organization/strategy-and-tactics.md)
 * [Goals & Measures](organization/goals-and-measures.md)
 
----
-
-* [Initial page](initial-page.md)
-
 ## CSM
 
 * [⚙ SOP](csm/sop/README.md)
