@@ -19,6 +19,7 @@ Password is it BitWarden.
 **OpenVPN**  
 \(Win10, MacOS, Linux, Android, iOS\)  
 A client for connecting to our company VPN-solution.  
+In order to connect to our VPN-solution you need a .OVPN-file from Morten.   
 [https://openvpn.net/vpn-client/](https://openvpn.net/vpn-client/)
 
 **AnyDesk**  
