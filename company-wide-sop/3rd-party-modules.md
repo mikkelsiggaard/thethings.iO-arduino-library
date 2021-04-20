@@ -36,7 +36,7 @@ From the example "4.3.5", "4" means that for this module there has been a total 
 We will only install 3rd party modules if they use Semantic Versioning.   
 We are less worried about whether the developer uses Semantic Versioning correctly, but we prefer 3rd party developers using Semantic Versioning correctly. 
 
-## Composer repository
+### Composer repository
 
 Composer is a software management library that effectively is able to separate one software package, containing multiple versions, into multiple packages. It is also the way to for us to know that a new version of a module has been released from the developer. 
 
