@@ -16,5 +16,13 @@ Password is it BitWarden.
 ****Great for synchronizing mails and calendar event from Google Workspace to Outlook.   
 [https://tools.google.com/dlpage/gssmo/](https://tools.google.com/dlpage/gssmo/) 
 
+**OpenVPN**  
+\(Win10, MacOS, Linux, Android, iOS\)  
+A client for connecting to our company VPN-solution.  
+[https://openvpn.net/vpn-client/](https://openvpn.net/vpn-client/)
+
+**AnyDesk**  
+The alternative to TeamViewer we use to set up a remote desktop connection. 
+
 
 
