@@ -22,7 +22,10 @@ A client for connecting to our company VPN-solution.
 [https://openvpn.net/vpn-client/](https://openvpn.net/vpn-client/)
 
 **AnyDesk**  
-The alternative to TeamViewer we use to set up a remote desktop connection. 
+The alternative to TeamViewer we use to set up a remote desktop connection.   
+[https://anydesk.com/da](https://anydesk.com/da)
+
+
 
 
 
