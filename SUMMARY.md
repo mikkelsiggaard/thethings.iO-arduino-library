@@ -7,9 +7,9 @@
 * [Strategy & Tactics](organization/strategy-and-tactics.md)
 * [Goals & Measures](organization/goals-and-measures.md)
 
-## Company-wide SOP
+## SOP
 
-* [3rd Party Modules](company-wide-sop/3rd-party-modules.md)
+* [3rd Party Modules](sop/3rd-party-modules.md)
 
 ## CSM
 
