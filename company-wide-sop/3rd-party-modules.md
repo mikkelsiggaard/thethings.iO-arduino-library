@@ -8,6 +8,13 @@ description: >-
 
 First and foremost, a Salecto webshop should not be dependent on a specific 3rd party module. If the specific module somehow fails, it is out of our control to fix the problem. If a shop is dependent on a failed module, there is a high risk of the shop becoming useless. 
 
+Secondly, it is always necessary to consider other options before finding possible 3rd party modules. 
+
+1. Is it "nice-to-have" or "need-to-have"?
+2. To which degree can the problem be solved by using default Magento components? 
+3. To which degree can the problem be solved by using Salecto Supported modules?
+4. To which degree can the problem be solved through an API-integration that connects to a service?
+
 ## Technical requirements
 
 Before a module can begin to be used on a Salecto customers webshop, a technical assessment needs to be done. This should be done properly in order to prevent that modules are sold where we cannot accept them on our platform. 
