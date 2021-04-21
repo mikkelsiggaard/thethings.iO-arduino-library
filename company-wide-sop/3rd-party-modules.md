@@ -13,7 +13,10 @@ Secondly, it is always necessary to consider other options before finding possib
 1. Is it "nice-to-have" or "need-to-have"?
 2. To which degree can the problem be solved by using default Magento components? 
 3. To which degree can the problem be solved by using Salecto Supported modules?
-4. To which degree can the problem be solved through an API-integration that connects to a service?
+4. To which degree can the problem be solved by using known 3rd party modules? 
+5. To which degree can the problem be solved through an API-integration that connects to a service?
+
+After all these things have been considered properly, 
 
 ## Technical requirements
 
@@ -54,8 +57,8 @@ Composer is a software management library that effectively is able to separate o
 
 To be able to check if a 3rd party modules is Composer-compliant there is a couple of ways to check. 
 
-1. Check [Packagist.org](https://packagist.org/) \(The main repository for Composer\).
-2. If the module is on GitHub, there should be a file called "composer.json".
+1. Search on [Packagist.org](https://packagist.org/) \(The main repository for Composer\).
+2. If the module is available on GitHub, there should be a file called "composer.json".
 3. On the module developers home page, they could write something like "Composer Packs", which means it is compliant. 
 
 ## We can always reject a module
