@@ -14,6 +14,10 @@ Secondly, it is always necessary to consider other options before finding possib
 
 ![Initial questions before researching 3rd party modules](../.gitbook/assets/3rd-party-modules.png)
 
+Only after these considerations have been made, can we send an offer to the customer that we begin researching possible 3rd party modules that fits the customers needs. 
+
+Remember, that it is better to find multiple options and let the customer choose, after having gotten the pros and cons for each module. The customer should always accept the specific 3rd party module and not just a solution. 
+
 ## Technical requirements
 
 Before a module can begin to be used on a Salecto customers webshop, a technical assessment needs to be done. This should be done properly in order to prevent that modules are sold where we cannot accept them on our platform. 
