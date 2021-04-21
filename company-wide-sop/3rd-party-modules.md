@@ -6,6 +6,8 @@ description: >-
 
 # 3rd Party Modules
 
+First and foremost, a Salecto webshop should not be dependent on a specific 3rd party module. If the specific module somehow fails, it is out of our control to fix the problem. If a shop is dependent on a failed module, there is a high risk of the shop becoming useless. 
+
 ## Technical requirements
 
 Before a module can begin to be used on a Salecto customers webshop, a technical assessment needs to be done. This should be done properly in order to prevent that modules are sold where we cannot accept them on our platform. 

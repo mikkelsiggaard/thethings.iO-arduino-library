@@ -13,7 +13,7 @@
 
 ## CSM
 
-* [⚙ SOP](csm/sop/README.md)
+* [SOP](csm/sop/README.md)
   * [Project template for onboarding](csm/sop/projektskabelon/README.md)
     * [Onboarding Process](csm/sop/projektskabelon/onboarding-process/README.md)
       * [Welcome Email](csm/sop/projektskabelon/onboarding-process/welcome-email.md)
