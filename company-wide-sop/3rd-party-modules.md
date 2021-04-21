@@ -12,9 +12,7 @@ First and foremost, a Salecto webshop should not be dependent on a specific 3rd 
 
 Secondly, it is always necessary to consider other options before finding possible 3rd party modules, with the purpose of evaluating if a 3rd party module is the only possible solution. 
 
-
-
-After all these things have been considered properly, and a customer still requires a 3rd party module
+![Initial questions before researching 3rd party modules](../.gitbook/assets/3rd-party-modules.png)
 
 ## Technical requirements
 
